@@ -4,8 +4,8 @@ const axios = require("axios");
 const mongoose = require("mongoose");
 const databaseName = "rjDownloaderDB";
 mongoose.connect(`mongodb://127.0.0.1:27017/${databaseName}`);
-botToken = process.env.BOT_TOKEN;
-sponserChannel = process.env.SPONSER_CHANNEL;
+const botToken = process.env.BOT_TOKEN;
+const sponserChannel = process.env.SPONSER_CHANNEL;
 const bot = new TelegramBot(botToken, { polling: true });
 
 const ObjectId = mongoose.Types.ObjectId;
