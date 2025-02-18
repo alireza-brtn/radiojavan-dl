@@ -259,7 +259,7 @@ async function parseMessage(msg) {
       case options.about:
         await bot.sendMessage(
           userId,
-          `دانلود آهنگ‌های رادیو جوان با بالاترین کیفیت ممکن!`
+          `آیدی توسعه دهنده: @alireza_brtn`
         );
         break;
       default:
