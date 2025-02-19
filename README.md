@@ -46,6 +46,3 @@ Feel free to submit issues and PRs.
 
 - [ ] Upload pdocasts and videos on Telegram
 - [ ] Add support for playlists and albums
-
-### Bugs
-- [ ] Some songs will not be downloaded
