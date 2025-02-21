@@ -22,10 +22,6 @@ Currently, this bot supports downloading:
 - Podcasts
 - Videos
 
-You can also donate to this project to add more features, such as downloading playlists!
-
-#### Donation section coming soon..
-
 ## Use
 
 I have this bot in production which you can use it for free [here](https://t.me/rjripbot).
