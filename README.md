@@ -35,10 +35,3 @@ I have this bot in production which you can use it for free [here](https://t.me/
 ## Contribution
 
 Feel free to submit issues and PRs.
-
-## To-Do
-
-### Features
-
-- [ ] Upload pdocasts and videos on Telegram
-- [ ] Add support for playlists and albums
