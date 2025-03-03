@@ -30,7 +30,7 @@ I have this bot in production which you can use it for free [here](https://t.me/
 
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 - [mongoose](https://github.com/Automattic/mongoose)
-- [Docekr](https://docker.com)
+- [Docker](https://docker.com)
 
 ## Contribution
 
