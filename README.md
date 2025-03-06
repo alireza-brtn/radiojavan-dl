@@ -32,6 +32,3 @@ I have this bot in production which you can use it for free [here](https://t.me/
 - [mongoose](https://github.com/Automattic/mongoose)
 - [Docker](https://docker.com)
 
-## Contribution
-
-Feel free to submit issues and PRs.
