@@ -32,3 +32,7 @@ I have this bot in production which you can use it for free [here](https://t.me/
 - [mongoose](https://github.com/Automattic/mongoose)
 - [Docker](https://docker.com)
 
+## Upcoming
+- Upload larger media on Telegram
+- Download albums and playlists
+
