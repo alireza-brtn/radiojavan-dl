@@ -26,12 +26,6 @@ Currently, this bot supports downloading:
 
 I have this bot in production which you can use it for free [here](https://t.me/rjripbot).
 
-## Credits
-
-- [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
-- [mongoose](https://github.com/Automattic/mongoose)
-- [Docker](https://docker.com)
-
 ## Upcoming
 - Upload larger media on Telegram
 - Download albums and playlists
