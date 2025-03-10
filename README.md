@@ -1,8 +1,8 @@
 # Radio Javan Downloader
 
-Download [Radio Javan](https://play.radiojavan.com/) media only by its URL!
+A simple Telegram bot fetching [Radio Javan](https://www.radiojavan.com/) media just by providing its URL.
 
-## Run
+## How to Run
 
 ### Docker
 
@@ -13,6 +13,13 @@ In order to run the bot, you should have MongoDB installed on your OS and run th
 ```bash
 docker run -d --network=host --restart always -e BOT_TOKEN=<your-bot-token> -e SPONSER_CHANNEL=<your-sponsel-channel-username> alirezabrtn/radiojavan-dl
 ```
+
+### From Source
+
+- Clone the repo and install MongoDB, Node.JS
+- Install npm dependecies
+- Provide your environment variables
+- Run
 
 ## Features
 
